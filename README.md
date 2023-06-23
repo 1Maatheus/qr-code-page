@@ -1,0 +1,2 @@
+# QR Code Page
+<hr>
